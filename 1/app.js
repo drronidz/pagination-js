@@ -45,4 +45,5 @@ btnContainer.addEventListener('click', function (event) {
     setupUI()
 })
 
+// Circular Pagination (From the beginning to the start -And- From start to the beginning)
 window.addEventListener('load', init)
